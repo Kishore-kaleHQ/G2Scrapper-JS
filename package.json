@@ -1,0 +1,14 @@
+{
+  "name": "web_scraper",
+  "version": "1.0.0",
+  "description": "A web scraping tool to extract specific product reviews from G2",
+  "main": "web_scraper.js",
+  "scripts": {
+    "start": "node web_scraper.js"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.5",
+    "fs": "^0.0.1-security"
+  }
+}
