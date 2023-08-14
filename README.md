@@ -1,1 +1,0 @@
-# G2Scrapper-JS
